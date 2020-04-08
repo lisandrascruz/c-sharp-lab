@@ -2,7 +2,7 @@
 
 Learning C# to teach in a technical course of developer of systems.
 
-1. Draw 
+1. 00-drawing
 
     Using string to simple drawing.
     
